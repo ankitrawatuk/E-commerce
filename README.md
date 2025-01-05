@@ -1,8 +1,8 @@
-# e-commerce
+# E-commerce
 <br>
 e-commerce project using react 
 <br>
-by Ankit
+by Ankit Rawat
 # React-Ecommerce-website
 ### Work Under Progress
 
